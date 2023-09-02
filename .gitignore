@@ -1,10 +1,4 @@
-.gradle/
 build/
-gradle/
-gradlew.bat
-gradlew
-build.gradle
-settings.gradle
 !**/src/main/**/build/
 !**/src/test/**/build/
 target/
